@@ -1,0 +1,16 @@
+#video {
+	width: 100%;
+	height: 100%;
+	border-color: aqua;
+	border-width: thick;
+}
+
+#map {
+	width: 700px;
+	height: 600px;
+	border-color:black;
+	border-width: medium;
+}
+body{
+	text-align: center;
+}
